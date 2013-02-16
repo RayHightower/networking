@@ -16,7 +16,7 @@ class Photo
         block.call(photos)
       else
        #something went wrong
-       # raise result.error.localizedDescription
+       raise result.error.localizedDescription
       end
     end
   end

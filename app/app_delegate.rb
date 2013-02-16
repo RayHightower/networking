@@ -1,4 +1,4 @@
-INSTAGRAM_CLIENT_ID = 'Your ID'
+INSTAGRAM_CLIENT_ID = 'ae0854b622d84e1a93032ae40fda1c0a'
 
 class AppDelegate
   def application(application, didFinishLaunchingWithOptions:launchOptions)
